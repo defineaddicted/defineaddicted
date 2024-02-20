@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @defineaddicted
+- 👀 I’m interested in diablo IV
+- 🌱 I’m currently learning java and c++
+- 📫 How to reach me:
+- Discord = fonzis
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: idk
