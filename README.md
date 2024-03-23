@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @defineaddicted
-- 👀 I’m interested in Reverse Engineering
-- 🌱 I’m currently learning Python🐍
-- 📫 How to reach me: u can't
-- 😄 Pronouns: some
-- ⚡ Fun fact: i see u UwU
+
