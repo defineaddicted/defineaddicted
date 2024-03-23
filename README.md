@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @defineaddicted
-- 👀 I’m interested in diablo IV
-- 🌱 I’m currently learning java and c++
-- 📫 How to reach me:
-- Discord = fonzis
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: idk
+- 👀 I’m interested in Reverse Engineering
+- 🌱 I’m currently learning Python🐍
+- 📫 How to reach me: u can't
+- 😄 Pronouns: some
+- ⚡ Fun fact: i see u UwU
