@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AppleAddicted
-- 👀 I’m interested in IOS SO
+- 👀 I’m interested in IOS Front end
 - 🌱 I’m currently learning Swift/SwiftUI🦅
 - 📫 How to reach me: u can't rn
 - 😄 Pronouns: He/Him
