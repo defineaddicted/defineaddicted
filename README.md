@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @defineaddicted
-- 👀 I’m interested in Reverse Engineering
-- 🌱 I’m currently learning Python🐍
-- 📫 How to reach me: u can't
-- 😄 Pronouns: some
-- ⚡ Fun fact: i see u UwU
+- 👋 Hi, I’m @AppleAddicted
+- 👀 I’m interested in IOS SO
+- 🌱 I’m currently learning Swift/SwiftUI🦅
+- 📫 How to reach me: u can't rn
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm an apple fanboy
